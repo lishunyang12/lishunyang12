@@ -15,10 +15,8 @@
 Full Stack&Machine Learning&Robotics
 
 ## My Project📚
-- [Pong: FPGA Game](https://github.com/AZCodingAccount/iSchool)
-- [Alex: an rescue robot](https://github.com/AZCodingAccount/iGomokuGame)
-- [Huazhong Team Management](https://github.com/AZCodingAccount/iTime)
-
+- [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project))
+- [Huazhong Team Management](https://github.com/lishunyang12/HuaZhongKeJi_ProjectManagement)
 
 
 ## Stack🛠️
