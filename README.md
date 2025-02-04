@@ -13,7 +13,7 @@ My interest is on embodied intelligence and control theory.
 
 ## My Project📚
 - [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project)
-- [Huazhong Team Management](https://github.com/lishunyang12/HuaZhongKeJi_ProjectManagement)
+- [Alex-Search-Rescue](https://github.com/KuanHsienn/Alex-Search-Rescue)
 
 
 ## Stack🛠️
