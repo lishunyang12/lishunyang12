@@ -55,4 +55,3 @@ My interest is on embodied intelligence and control theory.
 
 
 
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=Languages"/>
