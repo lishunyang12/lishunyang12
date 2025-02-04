@@ -9,7 +9,7 @@
 
 ## Info👤    
 Hi, my name is Li Shunyang, a second-year computer engineering student at National University.
-My interest is on embodied intelligence and control theory. 
+My interest is embodied intelligence and control theory. 
 
 ## My Project📚
 - [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project)
