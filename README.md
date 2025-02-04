@@ -22,7 +22,7 @@ My interest is on embodied intelligence and control theory.
       <strong>Hardware & Embedded Systems:</strong>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Arduino-35495e.svg?style=flat-square&logo=arduino&logoColor=4FC08D" alt="Arduino"></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux (Embedded)"></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/FPGA-1A1A1A.svg?style=flat-square&logo=xilinx&logoColor=white" alt="FPGA (Field-Programmable Gate Array)"></a>&emsp; <!-- Added FPGA with a placeholder logo -->
+<!--       <a href=""><img src="https://img.shields.io/badge/FPGA-1A1A1A.svg?style=flat-square&logo=xilinx&logoColor=white" alt="FPGA (Field-Programmable Gate Array)"></a>&emsp; <!-- Added FPGA with a placeholder logo --> -->
       <a href=""><img src="https://img.shields.io/badge/ROS-004225.svg?style=flat-square&logo=ros&logoColor=white" alt="ROS (Robot Operating System)"></a>&emsp;
 </p>
 
@@ -48,10 +48,13 @@ My interest is on embodied intelligence and control theory.
       <!-- Tools -->
       <strong>Tools:</strong>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Git-F15A24.svg?style=flat-square&logo=git&logoColor=white" alt="Git"></a>&emsp; <!-- Changed logo to Git -->
-      <a href=""><img src="https://img.shields.io/badge/MATLAB-0E3ECC.svg?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"></a>&emsp; <!-- Added MATLAB -->
+<!--       <a href=""><img src="https://img.shields.io/badge/MATLAB-0E3ECC.svg?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"></a>&emsp; <!-- Added MATLAB --> -->
 </p>
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=lishunyang12&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+
+
+
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=Languages"/>
