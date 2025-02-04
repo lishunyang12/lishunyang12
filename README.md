@@ -6,16 +6,13 @@
 </p>
 -->
 <!-- 个人资料 -->
-<p align="center"> 
-<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
-<a href="https://komarev.com/ghpvc/?username=lishunyang12&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=lishunyang12&abbreviated=true"/></a>
-</p>
 
 ## Info👤    
-Full Stack&Machine Learning&Robotics
+Hi, my name is Li Shunyang, a second-year computer engineering student at National University.
+My interest is on embodied intelligence and control theory. 
 
 ## My Project📚
-- [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project))
+- [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project)
 - [Huazhong Team Management](https://github.com/lishunyang12/HuaZhongKeJi_ProjectManagement)
 
 
@@ -57,6 +54,4 @@ Full Stack&Machine Learning&Robotics
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=lishunyang12&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-
-
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=Languages"/>
