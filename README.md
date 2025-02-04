@@ -9,9 +9,20 @@ I recently joined NUS calibur robotics club through DarkNus programme as a firmw
 - 🤔 I’m looking for opportunities to learn multimodal learning and embodied artificial intelligence.
 - ⚡ Fun fact: I am a DJI guy!
 
-![lishunyang12's Stats](https://github-readme-stats.vercel.app/api?username=lishunyang12&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+<br>
+  
+![lishunyang12's Stats](https://github-readme-stats.vercel.app/api?username=lishunyang12&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-![lishunyang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=lishunyang12)](https://git.io/streak-stats)
+
+
+![lishunyang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
 
 
 <!--
