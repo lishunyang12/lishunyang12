@@ -8,10 +8,7 @@
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
-<a href="https://www.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
-<a href="https://space.bilibili.com/501122856" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
-<a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
-<a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
+<a href="https://komarev.com/ghpvc/?username=lishunyang12&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=lishunyang12&abbreviated=true"/></a>
 </p>
 
 ## Info👤    
@@ -20,26 +17,48 @@ Full Stack&Machine Learning&Robotics
 ## My Project📚
 - [Pong: FPGA Game](https://github.com/AZCodingAccount/iSchool)
 - [Alex: an rescue robot](https://github.com/AZCodingAccount/iGomokuGame)
-- [Huazhong:Team Management](https://github.com/AZCodingAccount/iTime)
+- [Huazhong Team Management](https://github.com/AZCodingAccount/iTime)
 
 
 
 ## Stack🛠️
-<p align="left"> 
-      &emsp;&emsp;&emsp;
-      <!-- 前端 -->
-      <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
-      <!-- 后端和数据库 -->
-      <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
+<p align="left">
+      <!-- Hardware & Embedded Systems -->
+      <strong>Hardware & Embedded Systems:</strong>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Arduino-35495e.svg?style=flat-square&logo=arduino&logoColor=4FC08D" alt="Arduino"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux (Embedded)"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/FPGA-1A1A1A.svg?style=flat-square&logo=xilinx&logoColor=white" alt="FPGA (Field-Programmable Gate Array)"></a>&emsp; <!-- Added FPGA with a placeholder logo -->
+      <a href=""><img src="https://img.shields.io/badge/ROS-004225.svg?style=flat-square&logo=ros&logoColor=white" alt="ROS (Robot Operating System)"></a>&emsp;
+</p>
+
+<p align="left">
+      <!-- Machine Learning & Data Science -->
+      <strong>Machine Learning & Data Science:</strong>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python"></a>&emsp; <!-- Moved Python here -->
+      <a href=""><img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="pandas (Data Manipulation)"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/scikit-learn-F7F7F7.svg?style=flat-square&logo=scikit-learn&logoColor=231F20" alt="scikit-learn"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy (Numerical Computing)"></a>&emsp;
+</p>
+
+<p align="left">
+      <!-- Software Development -->
+      <strong>Software Development:</strong>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=Javascript&logoColor=black" alt="JavaScript"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="npm (Node Package Manager)"></a>&emsp;
+</p>
+
+<p align="left">
+      <!-- Tools -->
+      <strong>Tools:</strong>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Git-F15A24.svg?style=flat-square&logo=git&logoColor=white" alt="Git"></a>&emsp; <!-- Changed logo to Git -->
+      <a href=""><img src="https://img.shields.io/badge/MATLAB-0E3ECC.svg?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"></a>&emsp; <!-- Added MATLAB -->
 </p>
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=lishunyang12&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+
+
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishunyang12&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=Languages"/>
