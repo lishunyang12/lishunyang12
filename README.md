@@ -1,8 +1,14 @@
 ## Hi there 👋
 
+I am second-year computer engineer at National University of Singapore. 
+My passion is to utilize hardware and software technologies to solve real world problems.
+I recently joined NUS calibur robotics club through DarkNus programme as a firmware engineer. 
+
+- 🔭 I’m currently working on firmware of controlling a 6-DOF robotic arm. 
+- 🌱 I’m currently learning forward and inverse kinematics.
+- 🤔 I’m looking for help with multimodal learning and embodied artificial intelligence. 
 <!--
 **lishunyang12/lishunyang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
