@@ -50,7 +50,6 @@ Hi, my name is Li Shunyang, a second-year computer engineering student at Nation
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=lishunyang12&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
 
 
 
