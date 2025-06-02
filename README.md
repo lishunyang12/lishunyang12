@@ -8,7 +8,7 @@
 <!-- 个人资料 -->
 
 ## Info👤    
-Hi, my name is Li Shunyang, a second-year computer engineering student at National University.
+Hi, my name is Li Shunyang, a computer engineering student at National University.
 
 ## My Project📚
 - [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project)
