@@ -10,12 +10,6 @@
 ## Info👤    
 Hi, my name is Li Shunyang, a computer engineering student at National University.
 
-## My Project📚
-- [Pong: FPGA Game](https://github.com/lishunyang12/EE2026-Group-Project)
-- [Alex-Search-Rescue](https://github.com/KuanHsienn/Alex-Search-Rescue)
-- [CV_tracker](https://github.com/lishunyang12/traditional-CV-armorplate-tracker)
-
-
 ## Stack🛠️
 <p align="left">
       <!-- Hardware & Embedded Systems -->
