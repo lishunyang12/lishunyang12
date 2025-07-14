@@ -8,7 +8,7 @@
 <!-- 个人资料 -->
 
 ## Info👤    
-Hi, my name is Li Shunyang, a computer engineering student at National University.
+I Love C++
 
 ## Stack🛠️
 <p align="left">
